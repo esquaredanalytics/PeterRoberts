@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://example.com",
+        "logo": "/brands/ferrante.png",
+        "alt": "Ferrante"
+    },
+    {
+        "url": "https://example.org",
+        "logo": "/brands/gabba.png",
+        "alt": "Gabba"
+    },
+    {
+        "url": "https://example.net",
+        "logo": "/brands/jacob_cohen.png",
+        "alt": "Jacob Cohen"
+    },
+    {
+        "url": "https://example.edu",
+        "logo": "/brands/red_wing.png",
+        "alt": "Red Wing"
+    },
+    {
+        "url": "https://example.edu",
+        "logo": "/brands/paige.webp",
+        "alt": "Paige Jeans"
+    },
+    {
+        "url": "https://example.edu",
+        "logo": "/brands/desoto.webp",
+        "alt": "Desoto"
+    },
+    {
+        "url": "https://example.edu",
+        "logo": "/brands/rehash.webp",
+        "alt": "Rehash"
+    }
+]
